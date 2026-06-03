@@ -65,56 +65,23 @@ The entertainment industry generates billions of dollars annually. Understanding
 * Genre
 * Runtime
 
----
-
-## 📊 Key Insights
-
-### 🏢 Distributor Analysis
-
-* Walt Disney Studios generated the highest worldwide revenue.
-* Warner Bros had one of the largest movie distributions in the dataset.
-
-### 🎭 Genre Performance
-
-Top-performing genre:
-
-```text
-Action • Adventure • Sci-Fi
-```
+## 📷 Dashboard Preview
 
 ### 📈 Revenue Analysis
 
 * Strong domestic collections often translated into higher worldwide revenue.
+  <p align="center">
+  <img src="Images/Dashboard 1.png" width="900">
+</p>
 * Worldwide movie revenue averaged hundreds of millions of dollars.
 
 ### 📅 Yearly Trends
 
 * 2019 emerged as the strongest box-office year in the dataset.
+<p align="center">
+  <img src="Images/Dashboard 2.png" width="900">
+</p>
 * 2018 and 2017 followed closely behind.
-
----
-
-## 📷 Dashboard Preview
-
-### Executive Dashboard
-
-<p align="center">
-  <img src="images/dashboard-overview.png" width="900">
-</p>
-
-### Revenue Analysis
-
-<p align="center">
-  <img src="images/revenue-analysis.png" width="900">
-</p>
-
-### Distributor Performance
-
-<p align="center">
-  <img src="images/distributor-analysis.png" width="900">
-</p>
-
-> Replace the image paths above with your Tableau dashboard screenshots.
 
 ---
 
